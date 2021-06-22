@@ -1,0 +1,1 @@
+terraform import google_project_service.firestore project/rotation-c8c0c
